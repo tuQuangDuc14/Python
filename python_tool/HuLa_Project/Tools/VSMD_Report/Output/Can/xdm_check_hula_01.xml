@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleresult>
+    <module name="Can">
+        <violation>
+            <ruleid>EcucSws_2038_2040_ASR41</ruleid>
+            <description>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</description>
+            <message>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanController/CanControllerEcucPartitionRef</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanConfigSet/CanController/CanControllerEcucPartitionRef</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_2038_2040_ASR41</ruleid>
+            <description>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</description>
+            <message>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanController/CanCpuClockRef</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanConfigSet/CanController/CanCpuClockRef</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_2038_2040_ASR41</ruleid>
+            <description>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</description>
+            <message>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanController/CanWakeupSourceRef</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanConfigSet/CanController/CanWakeupSourceRef</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_2038_2040_ASR41</ruleid>
+            <description>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</description>
+            <message>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanController/CanTTController/CanTTControllerEcucPartitionRef</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanConfigSet/CanController/CanTTController/CanTTControllerEcucPartitionRef</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_2038_2040_ASR41</ruleid>
+            <description>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</description>
+            <message>Failed to execute VSMD-Checker rule EcucSws_2038_2040_ASR41.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanController/CanCpuClockRefAlternate</vsmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_2038_2040_ASR41</ruleid>
+            <description>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</description>
+            <message>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanIcom/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessageSignalConfig/CanIcomSignalRef</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanConfigSet/CanIcom/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessageSignalConfig/CanIcomSignalRef</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_2038_2040_ASR41</ruleid>
+            <description>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</description>
+            <message>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanGeneral/CanEcucPartitionRef</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanGeneral/CanEcucPartitionRef</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_2038_2040_ASR41</ruleid>
+            <description>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</description>
+            <message>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanGeneral/CanOsCounterRef</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanGeneral/CanOsCounterRef</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_2038_2040_ASR41</ruleid>
+            <description>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</description>
+            <message>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanGeneral/CanSupportTTCANRef</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanGeneral/CanSupportTTCANRef</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_2038_2040_ASR41</ruleid>
+            <description>The destination of a REFERENCE-PARAM-DEF, SYMBOLIC-NAME-REFERENCE-PARAM-DEF and a CHOICE-REFERENCE-PARAM-DEF must point to an existing(!) PARAM-CONF-CONTAINER-DEF or CHOICE-CONTAINER-DEF. To execute this rule, all module shall be given to be able to resolve inter-module-references.</description>
+            <message>Failed to execute VSMD-Checker rule EcucSws_2038_2040_ASR41.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanGeneral/CanDmaRxChannelRef</vsmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_2034</ruleid>
+            <description>An ENUMERATION-PARAM-DEF must define at least one ENUMERATION-LITERAL-DEF.</description>
+            <message>An ENUMERATION-PARAM-DEF must define at least one ENUMERATION-LITERAL-DEF.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanController/CanHwChannel</vsmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_2034</ruleid>
+            <description>An ENUMERATION-PARAM-DEF must define at least one ENUMERATION-LITERAL-DEF.</description>
+            <message>An ENUMERATION-PARAM-DEF must define at least one ENUMERATION-LITERAL-DEF.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanGeneral/CanTimeStamp/TimestampHRTimeSource</vsmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_1014</ruleid>
+            <description>Additional vendor specific parameter definitions (using ParameterTypes), container definitions and references shall be added to the VSMD according to the alphabetical order.</description>
+            <message>Additional vendor specific parameter definitions (using ParameterTypes), container definitions and references shall be added to the VSMD according to the alphabetical order.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanController</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanConfigSet/CanController</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_1014</ruleid>
+            <description>Additional vendor specific parameter definitions (using ParameterTypes), container definitions and references shall be added to the VSMD according to the alphabetical order.</description>
+            <message>Additional vendor specific parameter definitions (using ParameterTypes), container definitions and references shall be added to the VSMD according to the alphabetical order.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanController/CanControllerBaudrateConfig</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanConfigSet/CanController/CanControllerBaudrateConfig</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_1014</ruleid>
+            <description>Additional vendor specific parameter definitions (using ParameterTypes), container definitions and references shall be added to the VSMD according to the alphabetical order.</description>
+            <message>Additional vendor specific parameter definitions (using ParameterTypes), container definitions and references shall be added to the VSMD according to the alphabetical order.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanController/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanConfigSet/CanController/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_1014</ruleid>
+            <description>Additional vendor specific parameter definitions (using ParameterTypes), container definitions and references shall be added to the VSMD according to the alphabetical order.</description>
+            <message>Additional vendor specific parameter definitions (using ParameterTypes), container definitions and references shall be added to the VSMD according to the alphabetical order.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanHardwareObject</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanConfigSet/CanHardwareObject</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_1014</ruleid>
+            <description>Additional vendor specific parameter definitions (using ParameterTypes), container definitions and references shall be added to the VSMD according to the alphabetical order.</description>
+            <message>Additional vendor specific parameter definitions (using ParameterTypes), container definitions and references shall be added to the VSMD according to the alphabetical order.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanIcom/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanConfigSet/CanIcom/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_1014</ruleid>
+            <description>Additional vendor specific parameter definitions (using ParameterTypes), container definitions and references shall be added to the VSMD according to the alphabetical order.</description>
+            <message>Additional vendor specific parameter definitions (using ParameterTypes), container definitions and references shall be added to the VSMD according to the alphabetical order.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanIcom/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessageSignalConfig</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanConfigSet/CanIcom/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessageSignalConfig</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_1014</ruleid>
+            <description>Additional vendor specific parameter definitions (using ParameterTypes), container definitions and references shall be added to the VSMD according to the alphabetical order.</description>
+            <message>Additional vendor specific parameter definitions (using ParameterTypes), container definitions and references shall be added to the VSMD according to the alphabetical order.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanGeneral</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanGeneral</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_1007</ruleid>
+            <description>For Integer and Float Parameters the MIN values must be &gt;= and the MAX values &lt;= as in the StMD.</description>
+            <message>An error occured: (1806) The XPath-expression "num:i(ecu:get(Can.CanConfigSet.MaxFdBaudrateValue))" caused an error: (35016) Cannot get a resource file for target CortexM and derivate HULA. Maybe this is due to module restrictions.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanController/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerFdBaudRate</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanConfigSet/CanController/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerFdBaudRate</stmdNode>
+        </violation>
+        <violation>
+            <ruleid>EcucSws_2028</ruleid>
+            <description>MIN und MAX is mandatory for float parameters.</description>
+            <message>An error occured: (1806) The XPath-expression "num:i(ecu:get(Can.CanConfigSet.MaxFdBaudrateValue))" caused an error: (35016) Cannot get a resource file for target CortexM and derivate HULA. Maybe this is due to module restrictions.</message>
+            <vsmdNode>/Can_TS_T40D55M9I3R0/Can/CanConfigSet/CanController/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerFdBaudRate</vsmdNode>
+            <stmdNode>/AUTOSAR/EcucDefs/Can/CanConfigSet/CanController/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerFdBaudRate</stmdNode>
+        </violation>
+    </module>
+</ruleresult>

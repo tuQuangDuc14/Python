@@ -1,0 +1,17 @@
+<Begin test="Test">
+    <Module Tool="User">
+        <Name>Tu Quang Duc</Name>
+        <Age>23</Age>
+        <Company>FPT</Company>
+    </Module>
+    <Module Layer="Module">
+        <Name>Can</Name>
+        <Name>I2c</Name>
+        <Name>Spi</Name>
+    </Module>
+    <Module Tool="Tool">
+        <Name>Tresos</Name>
+        <Name>VSMD</Name>
+        <Name>Misra</Name>
+    </Module>
+</Begin>

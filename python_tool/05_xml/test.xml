@@ -1,0 +1,12 @@
+<Begin test="Test">
+    <Truong NameTruong="BK Da Nang" DiaChi="54 NLB">
+        <Lop Lop1="1">18CDT1</Lop>
+        <Lop Lop1="2">Lop </Lop>
+        <ChucDanh>Truong</ChucDanh>
+    </Truong>
+    <Module Layer="MCAL">
+        <Name>Can</Name>
+        <Name>I2c</Name>
+        <Name>Spi</Name>
+    </Module>
+</Begin>
